@@ -40,9 +40,14 @@ This project analyzes public attitudes toward the justification of violence agai
 ---
 
 ## 📷 Visual Examples
+### Justification by Gender
+![Justification by Gender](https://github.com/Rowaneissa/violence-data-analysis/blob/main/plot1.png?raw=true)
 
-> (You can upload images from your plots and insert them here using the GitHub image uploader or Markdown syntax)
+### Justification by Area
+![Justification by Area](https://github.com/Rowaneissa/violence-data-analysis/blob/main/plot2.png?raw=true)
 
+### Justification by Education
+![Justification by Education](https://github.com/Rowaneissa/violence-data-analysis/blob/main/plot3.png?raw=true)
 ---
 
 ## 💡 Conclusions
